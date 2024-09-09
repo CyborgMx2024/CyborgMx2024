@@ -1,12 +1,12 @@
-🎓 Estudante de Segurança da Informação
+##🎓 Estudante de Segurança da Informação
 
-🧠 Estudos em Inteligência Artificial
+##🧠 Estudos em Inteligência Artificial
 
-💻 Manutenção de Computadores | Marketing Digital | Forense Digital
+##💻 Manutenção de Computadores | Marketing Digital | Forense Digital
 
-🤖 Interessado em Prototipagem e Robótica
+##🤖 Interessado em Prototipagem e Robótica
 
-💻 Proficiente em Python
+##💻 Proficiente em Python
 
 ### **BOOTCAMPS E CERTIFICAÇÕES**
 

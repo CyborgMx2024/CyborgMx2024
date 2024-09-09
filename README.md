@@ -19,6 +19,11 @@
 <img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="80"></a>
 <img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" height="80"></a>
 
+### **LINGUAGENS E SISTEMAS**
+<img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white" height="30"></a>
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="30"></a>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" height="30"></a>
+<img src="https://img.shields.io/badge/Parrot%20Security-15E0ED.svg?style=for-the-badge&logo=Parrot-Security&logoColor=white" height="30"></a>
 
 <!---
 CyborgMx2024/CyborgMx2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

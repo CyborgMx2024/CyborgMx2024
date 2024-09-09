@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" height="30"></a>
 <img src="https://img.shields.io/badge/Parrot%20Security-15E0ED.svg?style=for-the-badge&logo=Parrot-Security&logoColor=white" height="30"></a>
 
+### **SOFTWARES**
+<img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white" height="30"></a>
 <!---
 CyborgMx2024/CyborgMx2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

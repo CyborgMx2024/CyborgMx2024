@@ -18,6 +18,7 @@
 <img src="https://hermes.dio.me/tracks/f7103da6-32cf-46a4-be1c-c97067534355.png" height="80"></a>
 <img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" height="80"></a>
 <img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" height="80"></a>
+<img src="https://i.postimg.cc/fbWThC8g/escudo-Hak.png" height="80"></a>
 
 ### **LINGUAGENS E SISTEMAS**
 <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white" height="30"></a>
